@@ -1,5 +1,5 @@
 // MQTT Broker
-const broker = "wss://019e795807a14c69987c0d11c60eca33.s1.eu.hivemq.cloud:8884/mqtt";
+const broker = "wss://6a116be4db554f028869a6021f034e18.s1.eu.hivemq.cloud:8884/mqtt";
 
 const options = {
     username: "esp32",
